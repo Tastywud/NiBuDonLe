@@ -8,8 +8,8 @@
   "EffectiveVersion": "0.0.0.1",
   "Author": "Nesb01t",
   "Name": "XIVIslandCollector(ex)",
-  "Punchline": "FFXIV 无人岛矿车修改自用",
-  "Description": "岛内tp，不怎么安全.jpg 水下采集点暂不可用，不稳定。修改自Nesb01t佬的矿车。",
+  "Punchline": "FFXIV 无人岛内tp",
+  "Description": "岛内tp，不怎么安全.jpg 水下采集点暂不可用，不稳定。引用了Nesb01t佬的tp方式。",
   "Changelog": null,
   "Tags": [
     "trainer"
